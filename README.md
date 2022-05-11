@@ -1,4 +1,4 @@
-# Introduction
+clear# Introduction
 You are working on an online bookstore application. You have to finish a few web API methods.
 
 The project contains functional tests. Your task is to make all the tests pass by writing the missing code.
